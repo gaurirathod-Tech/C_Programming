@@ -8,7 +8,7 @@
 
 int main()
 {
-    int iValue1 = 0, iValue2 =0;
+    int iValue1 = 0, iValue2 = 0;
 
     printf("Enter number of rows and columns: \n");
     scanf("%d %d",&iValue1, &iValue2);
