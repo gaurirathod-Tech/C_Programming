@@ -1,0 +1,14 @@
+#include "Program26_1.3.h"
+
+//////////////////////////////////////////
+//
+// Entry point of the application
+//
+//////////////////////////////////////////
+
+int main()
+{
+    DisplayASCII();
+
+    return EXIT_SUCCESS;
+}
